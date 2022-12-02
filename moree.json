@@ -1,0 +1,24 @@
+{
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Telepon Palsu dari Farel",
+      "image":"https://caberhalal.github.io/foto/farel.png",
+      "link":"https://play.google.com/store/apps/details?id=com.zarois.farel"
+    },
+    {
+      "id":2,
+      "title":"Jaemin Fake Call",
+      "image":"https://caberhalal.github.io/foto/jaemin.png",
+      "link":"https://play.google.com/store/apps/details?id=com.lingling.jaemin&hl=en"
+    },
+    {
+      "id":3,
+      "title":"Jungkok Fake Call",
+      "image":"https://caberhalal.github.io/foto/jungkok.png",
+      "link":"https://play.google.com/store/apps/details?id=com.lingling.jungkok&hl=en"
+    }
+  ]
+
+}
